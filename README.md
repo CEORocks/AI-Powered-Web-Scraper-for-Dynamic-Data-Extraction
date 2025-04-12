@@ -15,7 +15,7 @@ To get started with the **AI-Powered Web Scraper**, follow these steps to instal
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ai-web-scraper.git
+   git clone https://github.com/CEORocks/ai-web-scraper.git
    cd ai-web-scraper
    ```
 
